@@ -1,0 +1,92 @@
+[
+  {
+    "id": "w001", "title": "너의 이름은.", "type": "anime", "year": 2016, "runtime": "107분",
+    "tags": ["#설레고싶어", "#두근두근", "#펑펑울고싶어", "#새벽감성"],
+    "reason": "서로를 모르는 채 끌리는 두 사람을 따라가다 보면, 설렘이 먹먹함으로 번지는 밤에 잘 어울려요.",
+    "tmdbId": null, "poster": null, "providers": [], "providersCheckedAt": null
+  },
+  {
+    "id": "w002", "title": "이웃집 토토로", "type": "anime", "year": 1988, "runtime": "86분",
+    "tags": ["#위로받고싶어", "#따뜻한이야기", "#잔잔하게", "#힘든하루"],
+    "reason": "아무 일도 일어나지 않아도 괜찮다고 말해주는, 숨 돌릴 틈 같은 영화예요.",
+    "tmdbId": null, "poster": null, "providers": [], "providersCheckedAt": null
+  },
+  {
+    "id": "w003", "title": "헤어질 결심", "type": "movie", "year": 2022, "runtime": "138분",
+    "tags": ["#곱씹고싶어", "#새벽감성", "#비오는날", "#잔잔하게"],
+    "reason": "닿을 듯 닿지 않는 마음이 안개처럼 번져서, 끝나고도 한참 곱씹게 돼요.",
+    "tmdbId": null, "poster": null, "providers": [], "providersCheckedAt": null
+  },
+  {
+    "id": "w004", "title": "극한직업", "type": "movie", "year": 2019, "runtime": "111분",
+    "tags": ["#실컷웃고싶어", "#같이떠들고싶어", "#아무생각없이", "#스트레스풀기"],
+    "reason": "머리 비우고 웃다 보면 어느새 하루의 무게가 가벼워져 있어요.",
+    "tmdbId": null, "poster": null, "providers": [], "providersCheckedAt": null
+  },
+  {
+    "id": "w005", "title": "라라랜드", "type": "movie", "year": 2016, "runtime": "128분",
+    "tags": ["#이별했어", "#연애하고싶어", "#곱씹고싶어", "#새벽감성"],
+    "reason": "사랑했던 시간과 놓아준 마음을 음악으로 풀어줘서, 이별 뒤의 마음을 다독여줘요.",
+    "tmdbId": null, "poster": null, "providers": [], "providersCheckedAt": null
+  },
+  {
+    "id": "w006", "title": "어바웃 타임", "type": "movie", "year": 2013, "runtime": "123분",
+    "tags": ["#위로받고싶어", "#따뜻한이야기", "#연애하고싶어", "#힘든하루"],
+    "reason": "평범한 오늘이 얼마나 소중한지 다정하게 일러줘서, 지친 날 보기 좋아요.",
+    "tmdbId": null, "poster": null, "providers": [], "providersCheckedAt": null
+  },
+  {
+    "id": "w007", "title": "존 윅", "type": "movie", "year": 2014, "runtime": "101분",
+    "tags": ["#통쾌하게", "#스트레스풀기", "#의욕없어", "#아무생각없이"],
+    "reason": "군더더기 없는 액션이 쌓인 답답함을 시원하게 뚫어줘요.",
+    "tmdbId": null, "poster": null, "providers": [], "providersCheckedAt": null
+  },
+  {
+    "id": "w008", "title": "매드맥스: 분노의 도로", "type": "movie", "year": 2015, "runtime": "120분",
+    "tags": ["#통쾌하게", "#의욕없어", "#심장쫄깃", "#스트레스풀기"],
+    "reason": "처음부터 끝까지 달리기만 해서, 축 처진 기분에 불을 붙여줘요.",
+    "tmdbId": null, "poster": null, "providers": [], "providersCheckedAt": null
+  },
+  {
+    "id": "w009", "title": "인셉션", "type": "movie", "year": 2010, "runtime": "148분",
+    "tags": ["#반전", "#심장쫄깃", "#곱씹고싶어", "#의욕없어"],
+    "reason": "꿈속의 꿈을 쫓다 보면 정신이 번쩍 들고, 보고 나서 이야기하고 싶어져요.",
+    "tmdbId": null, "poster": null, "providers": [], "providersCheckedAt": null
+  },
+  {
+    "id": "w010", "title": "센과 치히로의 행방불명", "type": "anime", "year": 2001, "runtime": "125분",
+    "tags": ["#위로받고싶어", "#의욕없어", "#곱씹고싶어", "#따뜻한이야기"],
+    "reason": "서툰 아이가 낯선 곳에서 한 걸음씩 나아가는 모습이 다시 일어날 힘을 줘요.",
+    "tmdbId": null, "poster": null, "providers": [], "providersCheckedAt": null
+  },
+  {
+    "id": "w011", "title": "목소리의 형태", "type": "anime", "year": 2016, "runtime": "130분",
+    "tags": ["#펑펑울고싶어", "#우울해", "#혼자있고싶어", "#나만그런거아냐"],
+    "reason": "서툴게 상처 주고 받던 두 사람이 다시 마주하는 이야기라, 혼자 조용히 울기 좋아요.",
+    "tmdbId": null, "poster": null, "providers": [], "providersCheckedAt": null
+  },
+  {
+    "id": "w012", "title": "스파이 패밀리", "type": "anime", "year": 2022, "runtime": "TV 시즌1 · 25화",
+    "tags": ["#실컷웃고싶어", "#따뜻한이야기", "#아무생각없이", "#위로받고싶어"],
+    "reason": "서로 속이는 가짜 가족이 점점 진짜 가족이 되어가서, 웃다가 마음이 따뜻해져요.",
+    "tmdbId": null, "poster": null, "providers": [], "providersCheckedAt": null
+  },
+  {
+    "id": "w013", "title": "초속 5센티미터", "type": "anime", "year": 2007, "runtime": "63분",
+    "tags": ["#이별했어", "#첫사랑", "#우울해", "#혼자있고싶어", "#새벽감성"],
+    "reason": "닿지 못한 첫사랑의 거리가 눈송이처럼 쌓여서, 혼자 있고 싶은 밤에 어울려요.",
+    "tmdbId": null, "poster": null, "providers": [], "providersCheckedAt": null
+  },
+  {
+    "id": "w014", "title": "이터널 선샤인", "type": "movie", "year": 2004, "runtime": "108분",
+    "tags": ["#이별했어", "#곱씹고싶어", "#펑펑울고싶어", "#새벽감성"],
+    "reason": "헤어진 기억을 지우려다 오히려 사랑을 깨닫게 되는, 이별 뒤에 보면 아픈 영화예요.",
+    "tmdbId": null, "poster": null, "providers": [], "providersCheckedAt": null
+  },
+  {
+    "id": "w015", "title": "하울의 움직이는 성", "type": "anime", "year": 2004, "runtime": "119분",
+    "tags": ["#설레고싶어", "#두근두근", "#연애하고싶어", "#위로받고싶어"],
+    "reason": "서로의 약한 모습을 안아주는 사랑이라, 보는 내내 마음이 몽글해져요.",
+    "tmdbId": null, "poster": null, "providers": [], "providersCheckedAt": null
+  }
+]
